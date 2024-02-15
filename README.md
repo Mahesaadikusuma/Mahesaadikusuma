@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Halo semua! Perkenalkan nama saya **Mahesa Adi Kusuma**.<br>
+
+Saya seorang **Mahasiswa** dari Universitas Esa Unggul.<br> 
+
+Saya juga memiliki Pengalaman dalam pembuatan website dari Front End dan Back End.<br> 
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Portofolio](https://mahesa-portofolio.netlify.app/)ku ya.
